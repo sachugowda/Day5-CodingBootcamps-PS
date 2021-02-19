@@ -1,4 +1,10 @@
+//You will be given a string 'str'. Your task is to check whether 'str' is a palindrome or not.
 
+//input:
+//Radar
+
+//output:
+//Palindrome
 #include<stdio.h>
 
 int main()
